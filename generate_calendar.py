@@ -9,7 +9,7 @@ LATITUDE = 45.487
 LONGITUDE = -122.804
 TIMEZONE = "America/Los_Angeles"
 LOCATION_NAME = "Beaverton"
-DAYS_AHEAD = 7
+DAYS_AHEAD = 1800
 
 PLANETARY_ORDER = ["Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon"]
 DAY_RULERS = {
